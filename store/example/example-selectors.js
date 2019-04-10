@@ -1,0 +1,1 @@
+export const someSelector = state => state.data;
